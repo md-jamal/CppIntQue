@@ -5,3 +5,5 @@ Q2. Restrict class instance to be created on stack so that object can be created
 Q3. What is size of empty class? => empty_class_size.cpp
 
 Q4. Write your own string class => MyString.cpp
+
+Q5. Implement smart pointer
