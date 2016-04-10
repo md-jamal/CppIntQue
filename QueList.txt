@@ -6,4 +6,10 @@ Q3. What is size of empty class? => empty_class_size.cpp
 
 Q4. Write your own string class => MyString.cpp
 
-Q5. Implement smart pointer
+Q5. Implement smart pointer => SmartPtr.cpp
+
+Q6. Reverse given array => Reverse_Array.cpp
+
+Q7. How to identify size of integer without using sizeof operator? => sizeof_int.cpp
+
+Q8. Bubble sort program => bubblesort.cpp
