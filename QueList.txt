@@ -13,3 +13,7 @@ Q6. Reverse given array => Reverse_Array.cpp
 Q7. How to identify size of integer without using sizeof operator? => sizeof_int.cpp
 
 Q8. Bubble sort program => bubblesort.cpp
+
+Q9. Singleton pattern => singleton.cpp
+
+Q10. Functor example => functor.cpp
