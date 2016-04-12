@@ -22,3 +22,5 @@ Q9. Singleton pattern => singleton.cpp
 Q10. Functor example => functor.cpp
 
 Q11. Find second largest element in array => second_largest.cpp
+
+Q12. Print a matrix in spiral form => matrix_spiral.cpp
