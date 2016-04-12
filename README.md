@@ -30,3 +30,6 @@ Q13. auto keyword in C++ 11 => [auto.cpp] (/auto.cpp)
 Q14. override and final in C++ 11 => [override_keyword.cpp] (/override_keyword.cpp)
 
 Q15. final in C++ 11 => [final_keyword.cpp] (/final_keyword.cpp)
+
+Q16. unique_ptr, shared_ptr and weak_ptr in C++ 11 => [unique_shared_weak_ptr.cpp] (/unique_shared_weak_ptr.cpp)
+
