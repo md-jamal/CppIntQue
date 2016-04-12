@@ -24,3 +24,9 @@ Q10. Functor example => functor.cpp
 Q11. Find second largest element in array => second_largest.cpp
 
 Q12. Print a matrix in spiral form => matrix_spiral.cpp
+
+Q13. auto keyword in C++ 11 => auto.cpp
+
+Q14. override and final in C++ 11 => override_keyword.cpp
+
+Q15. final in C++ 11 => final_keyword.cpp
