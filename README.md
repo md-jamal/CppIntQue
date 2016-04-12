@@ -1,7 +1,7 @@
 # C-IntQue
 C++ Interview Questions
 
-Q1. Restrict class instance to be created on heap so that object can be created only on stack. => stack_but_no_heap.cpp
+Q1. Restrict class instance to be created on heap so that object can be created only on stack. => [stack_but_no_heap.cpp](/stack_but_no_heap.cpp)
 
 Q2. Restrict class instance to be created on stack so that object can be created only on heap. => heap_but_no_stack.cpp
 
