@@ -41,3 +41,4 @@ Q19. Template vs macro => [template_vs_macro.cpp] (/template_vs_macro.cpp)
 
 Q20. What will happen if I write 'delete this' in member function or in destructor? => [delete_this.cpp] (/delete_this.cpp)
 
+Q21. What if memset called in constructor of class with virtual methods? => [memset_with_virtual.cpp] (/memset_with_virtual.cpp)
