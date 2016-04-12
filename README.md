@@ -35,3 +35,7 @@ Q16. unique_ptr, shared_ptr and weak_ptr in C++ 11 => [unique_shared_weak_ptr.cp
 
 Q17. lambda function in C++ 11 => [lambda.cpp] (/lambda.cpp)
 
+Q18. Handling failure of new => [new_handler.cpp] (/new_handler.cpp)
+
+Q19. Template vs macro => [template_vs_macro.cpp] (/template_vs_macro.cpp)
+
