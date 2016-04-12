@@ -3,30 +3,30 @@ C++ Interview Questions
 
 Q1. Restrict class instance to be created on heap so that object can be created only on stack. => [stack_but_no_heap.cpp](/stack_but_no_heap.cpp)
 
-Q2. Restrict class instance to be created on stack so that object can be created only on heap. => heap_but_no_stack.cpp
+Q2. Restrict class instance to be created on stack so that object can be created only on heap. => [heap_but_no_stack.cpp](/heap_but_no_stack.cpp)
 
-Q3. What is size of empty class? => empty_class_size.cpp
+Q3. What is size of empty class? => [empty_class_size.cpp] (/empty_class_size.cpp)
 
-Q4. Write your own string class => MyString.cpp
+Q4. Write your own string class => [MyString.cpp] (/MyString.cpp)
 
-Q5. Implement smart pointer => SmartPtr.cpp
+Q5. Implement smart pointer => [SmartPtr.cpp] (/SmartPtr.cpp)
 
-Q6. Reverse given array => Reverse_Array.cpp
+Q6. Reverse given array => [Reverse_Array.cpp] (/Reverse_Array.cpp)
 
-Q7. How to identify size of integer without using sizeof operator? => sizeof_int.cpp
+Q7. How to identify size of integer without using sizeof operator? => [sizeof_int.cpp] (/sizeof_int.cpp)
 
-Q8. Bubble sort program => bubblesort.cpp
+Q8. Bubble sort program => [bubblesort.cpp] (/bubblesort.cpp)
 
-Q9. Singleton pattern => singleton.cpp
+Q9. Singleton pattern => [singleton.cpp] (/singleton.cpp)
 
-Q10. Functor example => functor.cpp
+Q10. Functor example => [functor.cpp] (/functor.cpp)
 
-Q11. Find second largest element in array => second_largest.cpp
+Q11. Find second largest element in array => [second_largest.cpp] (/second_largest.cpp)
 
-Q12. Print a matrix in spiral form => matrix_spiral.cpp
+Q12. Print a matrix in spiral form => [matrix_spiral.cpp] (/matrix_spiral.cpp)
 
-Q13. auto keyword in C++ 11 => auto.cpp
+Q13. auto keyword in C++ 11 => [auto.cpp] (/auto.cpp)
 
-Q14. override and final in C++ 11 => override_keyword.cpp
+Q14. override and final in C++ 11 => [override_keyword.cpp] (/override_keyword.cpp)
 
-Q15. final in C++ 11 => final_keyword.cpp
+Q15. final in C++ 11 => [final_keyword.cpp] (/final_keyword.cpp)
