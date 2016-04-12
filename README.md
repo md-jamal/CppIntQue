@@ -39,3 +39,5 @@ Q18. Handling failure of new => [new_handler.cpp] (/new_handler.cpp)
 
 Q19. Template vs macro => [template_vs_macro.cpp] (/template_vs_macro.cpp)
 
+Q20. What will happen if I write 'delete this' in member function or in destructor? => [delete_this.cpp] (/delete_this.cpp)
+
