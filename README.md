@@ -33,3 +33,5 @@ Q15. final in C++ 11 => [final_keyword.cpp] (/final_keyword.cpp)
 
 Q16. unique_ptr, shared_ptr and weak_ptr in C++ 11 => [unique_shared_weak_ptr.cpp] (/unique_shared_weak_ptr.cpp)
 
+Q17. lambda function in C++ 11 => [lambda.cpp] (/lambda.cpp)
+
