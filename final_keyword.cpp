@@ -1,4 +1,4 @@
-// Q14. override and final in C++ 11
+// Q14. final keyword in C++ 11
 //
 // final specifier in function declaration - 
 // - makes method impossible to override

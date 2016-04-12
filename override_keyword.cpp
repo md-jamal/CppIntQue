@@ -1,4 +1,4 @@
-// Q14. override and final in C++ 11
+// Q14. override keyword in C++ 11
 //
 // Using override specifier in function declaration - 
 // - shows that function is a virtual function overriding from baseclass
