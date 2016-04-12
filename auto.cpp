@@ -15,7 +15,7 @@ using namespace std;
 // Some class
 class MyClass {
 };
-/*
+
 int main() {
 
 	auto i = 42; // i is an int type
@@ -41,4 +41,3 @@ int main() {
 	}
 	return 0;
 }
-*/
