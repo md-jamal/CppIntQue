@@ -8,6 +8,10 @@
 // followed by base class destructor. This can be ensured by
 // virtual destructor.
 //
+// virtual function add overhead to class so if there is no virtual
+// in class and there is no need to handle above mentioned case
+// then better not to unnecessarily make destructor virtual
+
 // Author - Prashant Kothawade
 // Date - 14-04-2016
 
