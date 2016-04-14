@@ -45,4 +45,4 @@ Q21. What if memset called in constructor of class with virtual methods? => [mem
 
 Q22. How to add and substract numbers without using arithemetic operators? => [add_sub_without_op.cpp] (/add_sub_without_op.cpp)
 
-
+Q23. Matrix class => [matrix.cpp] (/matrix.cpp)
