@@ -46,3 +46,7 @@ Q21. What if memset called in constructor of class with virtual methods? => [mem
 Q22. How to add and substract numbers without using arithemetic operators? => [add_sub_without_op.cpp] (/add_sub_without_op.cpp)
 
 Q23. Matrix class => [matrix.cpp] (/matrix.cpp)
+
+Q24. const pointer and pointer to const => [const_pointer.cpp] (/const_pointer.cpp)
+
+Q25. Why do we need virtual destructor? Does it need even when there is no virtual function in class? => [virtual_destructor.cpp] (/virtual_destructor.cpp)
