@@ -50,3 +50,6 @@ Q23. Matrix class => [matrix.cpp] (/matrix.cpp)
 Q24. const pointer and pointer to const => [const_pointer.cpp] (/const_pointer.cpp)
 
 Q25. Why do we need virtual destructor? Does it need even when there is no virtual function in class? => [virtual_destructor.cpp] (/virtual_destructor.cpp)
+
+Q26. Double pointers => [double_pointer.cpp] (/double_pointer.cpp)
+
