@@ -53,3 +53,5 @@ Q25. Why do we need virtual destructor? Does it need even when there is no virtu
 
 Q26. Double pointers => [double_pointer.cpp] (/double_pointer.cpp)
 
+Q27. Copy constructor => [copy_constructor.cpp] (/copy_constructor.cpp)
+
