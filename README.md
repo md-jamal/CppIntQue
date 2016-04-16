@@ -55,3 +55,5 @@ Q26. Double pointers => [double_pointer.cpp] (/double_pointer.cpp)
 
 Q27. Copy constructor => [copy_constructor.cpp] (/copy_constructor.cpp)
 
+Q28. Range based for loop in C++ 11 => [range_for_loop.cpp] (/range_for_loop.cpp)
+
