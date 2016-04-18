@@ -61,3 +61,4 @@ Q29. STL vectors => [stl_vector.cpp] (/stl_vector.cpp)
 
 Q30. Array storing pointers and double pointers => [array_of_pointers.cpp] (/array_of_pointers.cpp)
 
+Q31. STL map => [stl_map.cpp] (/stl_map.cpp)
