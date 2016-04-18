@@ -65,5 +65,7 @@ Q31. STL map => [stl_map.cpp] (/stl_map.cpp)
 
 Q32. static keyword => [static.cpp]  (/static.cpp)
 
+Q33. Virtual functions and polymorphism => [polymorphism.cpp] (/polymorphism.cpp)
+
 
 
