@@ -67,5 +67,6 @@ Q32. static keyword => [static.cpp]  (/static.cpp)
 
 Q33. Virtual functions and polymorphism => [polymorphism.cpp] (/polymorphism.cpp)
 
+Q34. Class for dynamic array creation => [dynamic_array_class.cpp] (/dynamic_array_class.cpp)
 
 
