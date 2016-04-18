@@ -58,3 +58,6 @@ Q27. Copy constructor => [copy_constructor.cpp] (/copy_constructor.cpp)
 Q28. Range based for loop in C++ 11 => [range_for_loop.cpp] (/range_for_loop.cpp)
 
 Q29. STL vectors => [stl_vactor.cpp] (/stl_vactor.cpp)
+
+Q30. Array storing pointers and double pointers => array_of_pointers.cpp
+
