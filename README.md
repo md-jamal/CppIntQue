@@ -69,4 +69,4 @@ Q33. Virtual functions and polymorphism => [polymorphism.cpp] (/polymorphism.cpp
 
 Q34. Class for dynamic array creation => [dynamic_array_class.cpp] (/dynamic_array_class.cpp)
 
-
+Q35. What is a diamond inheritance problem and a solution => [diamond_prob.cpp] (/diamond_prob.cpp)
