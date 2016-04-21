@@ -155,9 +155,9 @@ matrix matrix::operator*(const matrix& m){
 // destructor
 matrix::~matrix(){
 	for(int i = 0; i<m_rows; i++) {
-		delete m_ptr[i];
+		delete[] m_ptr[i];
 	}
-	delete m_ptr;
+	delete[] m_ptr;
 }
 
 
