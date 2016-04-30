@@ -79,3 +79,6 @@ Q38. Mutable keyword => [mutable.cpp] (/mutable.cpp)
 
 Q39. Selection sort implementation => [selection_sort.cpp] (/selection_sort.cpp)
 
+Q40. Insertion sort implementation => [insertion_sort.cpp] (/insertion_sort.cpp)
+
+
