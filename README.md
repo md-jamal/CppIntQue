@@ -73,7 +73,7 @@ Q35. What is a diamond inheritance problem and a solution => [diamond_prob.cpp] 
 
 Q36. Reversing singly linked list => [reverse_singly_llist.cpp] (/reverse_singly_llist.cpp)
 
-Q37. How to find size of array? => [array_size.cpp] (/)array_size.cpp)
+Q37. How to find size of array? => [array_size.cpp] (/array_size.cpp)
 
 
 
