@@ -36,5 +36,7 @@ int main() {
 	arr_sz = sizeof(dyn_arr) / sizeof(int);
 	cout<<endl<<"Size of dynamic array : "<<arr_sz; // prints 1 which is wrong
 
+	delete[] dyn_arr;
+
 	return 0;
 }
