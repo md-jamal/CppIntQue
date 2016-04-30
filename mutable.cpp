@@ -1,4 +1,4 @@
-// Q37. Mutable keyword
+// Q38. Mutable keyword
 //
 // Objects of class declared as const can not
 // modify their data members. To override this
@@ -42,10 +42,11 @@ private:
 	int m_var_1;
 	mutable int m_var_2;
 };
-
+/*
 int main() {
 	const MutableClass obj;
 	obj.set_var_2(20);
 
 	return 0;
 }
+*/
